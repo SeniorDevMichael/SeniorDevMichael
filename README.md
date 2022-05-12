@@ -1,7 +1,7 @@
 <h1 align="center">Michael</h1>
 <h3 align="center">.NET Backend Developer</h3>
 
-I HAVE MORR THAN 8 YEARS EXPERİENCES.
+I HAVE MORE THAN 8 YEARS EXPERİENCES.
 
 ### Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
