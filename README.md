@@ -1,7 +1,7 @@
 <h1 align="center">Michael</h1>
 <h3 align="center">.NET Backend Developer</h3>
 
-I HAVE MORE THAN 8 YEARS EXPERİENCES.
+I HAVE MORE THAN 10 YEARS EXPERİENCES.
 
 ### Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -14,3 +14,10 @@ I HAVE MORE THAN 8 YEARS EXPERİENCES.
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+• GİT
+• Azure
+• Redis
+• Microservice
+• Jira
+• Bitbucket
